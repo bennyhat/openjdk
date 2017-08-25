@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  jdk:
+    image: bennyhat/oracle-jdk:1.8.0_144
+    build:
+      context: .
+      dockerfile: Dockerfile
