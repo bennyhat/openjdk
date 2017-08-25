@@ -1,1 +1,1 @@
-# openjdk
+# oracle-jdk
